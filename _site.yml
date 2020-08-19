@@ -1,0 +1,21 @@
+name: "Boren Wang"
+output_dir: "."
+navbar:
+  title: "Boren Wang"
+  left:
+    - text: "Education"
+      href: education.html
+    - text: "Projects"
+      href: projects.html
+    - text: "Experience"
+      href: experience.html
+    - text: "Contact"
+      href: contact.html
+  right:
+    - icon: fa-github fa-lg
+      href: https://github.com/Boren-Wang
+    - icon: fa-linkedin fa-lg
+      href: https://www.linkedin.com/in/boren-wang/
+output:
+  html_document:
+    theme: journal
